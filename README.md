@@ -12,7 +12,10 @@
 - CONFIG GLOBAL REPO
 $ git config --global user.name “nama_user”
 $ git config --global user.email “nama_user”
-- ![Gitconfig](C:/Users/user/Desktop/New%20folder/Capture11.PNG)
+- ![Gitconfig](C:/Users/LENOVO/Desktop/RALAT%20SS%201%20TROSSS!!!.png)
+- ![Gitconfig](C:file:///C:/Users/LENOVO/Desktop/SS%20BHS%20PEMROGRAMAN/RALAT%20SS%202%20TROSSS!!.png)
+- ![Gitconfig](C:file:///C:/Users/LENOVO/Desktop/SS%20BHS%20PEMROGRAMAN/RALAT%20SS%203%20TROSSS!!!!.png)
+- 
 ## Membuat Repo lokal
 - Buka direktory aktif, misal: d:\labs_pemrograman1 (buka menggunakan Windows Explorer) 
 - klik kanan pada direktory aktif tersebut, dan pilih menu Git Bash, sehingga muncul git bash command
